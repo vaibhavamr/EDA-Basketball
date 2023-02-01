@@ -3,4 +3,3 @@ matplotlib
 seaborn
 numpy
 streamlit
-base64
